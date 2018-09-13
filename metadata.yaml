@@ -1,0 +1,30 @@
+_repo: Footprints-of-the-Red-Men-Indian-geographical-names-in-the-valley-of-Hudson-s-river-the-valle__51217
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ruttenber, Edward Manning
+    alias: Ruttenber, E. M. (Edward Manning)
+    birthdate: 1825
+    deathdate: 1907
+    gutenberg_agent_id: '46308'
+    url: http://www.gutenberg.org/2009/agents/46308
+description: ''
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51217'
+  lccn: 07009870
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- New York (State)'
+- !lcsh 'Names, Geographical -- New York (State)'
+- !lcc 'F106'
+- !lcsh 'Names, Indian -- North America'
+- GITenberg
+title: "Footprints of the Red Men\r\nIndian geographical names in the valley of Hudson's\
+  \ river, the valley of the Mohawk, and on the Delaware: their location and the probable\
+  \ meaning of some of them."
+url: http://www.gutenberg.org/ebooks/51217
